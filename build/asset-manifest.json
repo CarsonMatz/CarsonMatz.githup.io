@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carsonmatz.github.io/static/css/main.84ac8534.css",
+    "main.js": "/carsonmatz.github.io/static/js/main.8f866f0c.js",
+    "static/media/hero-background.jpg": "/carsonmatz.github.io/static/media/hero-background.d728cd46d3613a53f1d7.jpg",
+    "index.html": "/carsonmatz.github.io/index.html",
+    "main.84ac8534.css.map": "/carsonmatz.github.io/static/css/main.84ac8534.css.map",
+    "main.8f866f0c.js.map": "/carsonmatz.github.io/static/js/main.8f866f0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ac8534.css",
+    "static/js/main.8f866f0c.js"
+  ]
+}
