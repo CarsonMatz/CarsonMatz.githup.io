@@ -1,0 +1,29 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('/public/assets/hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .about-us {
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  .image-collage {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  
+  .image-collage img {
+    width: 30%;
+    border-radius: 8px;
+  }
+  
